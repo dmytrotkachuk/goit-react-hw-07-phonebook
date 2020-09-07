@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "Saul Hudson",
+      "number": "233-23-23",
+      "id": 1
+    },
+    {
+      "name": "Jason Newsted",
+      "number": "211-21-21",
+      "id": 2
+    },
+    {
+      "name": "Ozzy Osbourne",
+      "number": "666-66-66",
+      "id": 3
+    }
+  ]
+}
